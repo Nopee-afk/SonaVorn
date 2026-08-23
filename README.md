@@ -1,14 +1,10 @@
-# Sona Vorn Portfolio — Simple Chatbot Version
-
-This is the easy GitHub Pages version. It keeps the teal, moss and warm-gold visual theme, animated role text, rain background and football photo. It also includes a normal JavaScript portfolio chatbot on the left.
+# Sona Vorn Portfolio
 
 The chatbot:
 
 - shows “Need help? Ask me!” automatically
 - answers prepared questions about Sona
-- does not use ChatGPT, an API key, a server or a database
-- works on GitHub Pages
-
+- 
 Files:
 
 - `index.html`

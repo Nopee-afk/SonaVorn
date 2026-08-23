@@ -10,7 +10,7 @@ Files:
 - `index.html`
 - `rain.js`
 - `Football.JPG`
-- `assets/` (put `Sona-Vorn-CV.pdf` here later)
+- `...etc.`
 
 Open `index.html` in a browser.
 
